@@ -8,7 +8,7 @@ except ImportError:
     LUNAR_AVAILABLE = False
 
 st.set_page_config(
-    page_title="우리 사이 | 사주 궁합",
+    page_title="다 이루어지리",
     page_icon="💗",
     layout="centered",
     initial_sidebar_state="collapsed",
