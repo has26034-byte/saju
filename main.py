@@ -1,10 +1,3 @@
-        '<p class="tarot-note">전통 타로 카드 그림을 살펴보고 마음이 가는 카드를 골라주세요. '
-        '원하는 카드를 순서대로 네 장 골라주세요. '
-        '첫 두 장은 본인, 다음 두 장은 상대방의 카드입니다.</p>',
-        unsafe_allow_html=True
-    )
-
-    if len(picked) < 4:
         step = len(picked)
         st.info(
             f"현재 선택: {step + 1}/4  ·  "
