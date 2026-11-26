@@ -1,4 +1,4 @@
-            f"현재 선택: {step + 1}/4  ·  "
+              f"현재 선택: {step + 1}/4  ·  "
             f"{POSITIONS[step][0]} — {POSITIONS[step][1]}"
         )
     else:
